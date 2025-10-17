@@ -1,0 +1,16 @@
+{
+  "name": "lynk-whatsapp-notification",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp untuk menerima notifikasi dari platform Lynk",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.26.0",
+    "crypto-js": "^4.2.0",
+    "express": "^5.1.0",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
