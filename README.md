@@ -76,3 +76,4 @@ https://contohdomain.com/webhook/lynk/628132278372/ynic9rerpv15UEbBgrA79rF4rYj-q
 # lynkl_notifikasi_wa_v1
 # lynkl_notifikasi_wa_v1
 # lynkl_notifikasi_wa_v1
+# lynkl_notifikasi_wa_v1
